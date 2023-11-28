@@ -1,0 +1,33 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+  }
+  
+  th{
+    border: 1px solid #ddd;
+    border-right: 0px;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #070707;
+    color : white;
+  }
+  
+  tr {
+    background-color: #070606;
+    color : white;
+  }
+  
+  tr:hover {
+    background-color: #77ee81;
+  }
+  h1 {
+    text-align: center;
+  }
+  body {
+    background-color: #070606;
+  }
+  
